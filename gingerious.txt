@@ -1,1 +1,1 @@
-vless://e647db5f-a01c-4379-8d82-951ea5e39ceb@v2.aamon.monster:56204?type=tcp&security=none#rat-ee3ahemw
+vless://289786c1-db6e-4947-9c11-09b17829b9eb@91.217.119.6:50819?type=tcp&encryption=none&security=none#rat-mioupnqe
